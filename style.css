@@ -1,0 +1,14 @@
+body p_tag{
+    text-align: center;
+}
+.container  form{
+    padding: 5px 4px ;
+}
+.text1 h1 {
+    text-align: center !important;
+    margin: 20px;
+}
+
+.form input{
+    margin:  5px 4px;
+}
